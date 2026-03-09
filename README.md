@@ -1,7 +1,7 @@
 # 📊 MediAnalytics Healthcare — Power BI Report Dashboard
 ### February 2026 | End-to-End Data Analytics Project
 
-![Product Dashboard](screenshots/dashboard_product_overview.png)
+![Product Dashboard](dashboard_product_overview.png)
 
 ---
 
@@ -49,7 +49,7 @@ Medianalytics_Healthcare_Report_Dashboard/
 
 ## 📊 Dashboard 1 — Product Sales Analysis
 
-![Product Dashboard](screenshots/dashboard_product_overview.png)
+![Product Dashboard](dashboard_product_overview.png)
 
 ### Visuals Built
 | Visual | Type | Purpose |
@@ -84,7 +84,7 @@ Both products recorded only 5 units each — indicating low doctor demand or ins
 
 ## 📊 Dashboard 2 — Coupon Collection Performance
 
-![Coupon Dashboard](screenshots/dashboard_coupon_overview.png)
+![Coupon Dashboard](dashboard_coupon_overview.png)
 
 ### Visuals Built
 | Visual | Type | Purpose |
